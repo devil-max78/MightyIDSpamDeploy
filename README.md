@@ -2,7 +2,7 @@
   <img src="https://telegra.ph/file/38eae16b57a0c2d039423.jpg"width="350"" alt="MightyXSpam Logo">
 </p>
 <h1 align="center">
-  <b>⚠️ 𝘔𝘪𝘨𝘩𝘵𝘺 𝘟 𝘐𝘋 𝘚𝘱𝘢𝘮 ⚠️</b>
+  <b>⚠️ 𝘔ax 𝘟 𝘐𝘋 𝘚𝘱𝘢𝘮 ⚠️</b>
 </h1>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBeingMighty%2FMightyXIDSpam&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=true)](https://github.com/BeingMighty/MightyXIDSpam)
@@ -14,7 +14,7 @@
  
 # Deploy To Heroku :
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BeingMighty/MightyIDSpamDeploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/devil-max78/MightyIDSpamDeploy)
 
 <br>
 
